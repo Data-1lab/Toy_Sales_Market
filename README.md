@@ -20,3 +20,8 @@ The following Power BI features were incorporated:
 - Tooltips
 - Page Navigation
 - Data Analysis Expression (DAX)
+
+## Visualization
+The report comprises 2 pages:
+1.  Excecutive Summary
+2.  Actionable Insights 
