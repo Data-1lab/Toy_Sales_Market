@@ -11,3 +11,12 @@ This is an end-to-end BI Project on sales analysis of a fictituous Toy stores in
 1. What are the top 5 products that drive most profits?
 2.  which city generated the hihest profit from 2017 to 2018?
 3.  What was the total revenue pattern in the first half of the year?
+
+## Skills/Concepts Demonstrated:
+
+The following Power BI features were incorporated:
+- Bookmarking
+- Filter
+- Tooltips
+- Page Navigation
+- Data Analysis Expression (DAX)
