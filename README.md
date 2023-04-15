@@ -25,3 +25,6 @@ The following Power BI features were incorporated:
 The report comprises 2 pages:
 1.  Excecutive Summary
 2.  Actionable Insights 
+
+This is the preview of the dashboard:
+![](Dashboard_1.png)
